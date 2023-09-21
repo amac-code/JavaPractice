@@ -1,0 +1,75 @@
+Arrays Problems
+
+Problem 1: Write a Java program that iterates over an array and prints elements of the array.
+
+Problem 2: Write a Java program that copies elements of an array into another array.
+
+Problem 3: Write a Java program that calculates and prints the sum of all elements in an integer array.
+
+Problem 4: Write a Java program that finds and prints the maximum element in an array of integers.
+
+Problem 5: Write a Java program to reverse the elements of an integer array. For example,
+           if the input array is [1, 2, 3, 4, 5], the program should modify the array to become [5, 4, 3, 2, 1].
+
+Problem 6: Write a Java program that merges two sorted arrays into a single sorted array.
+           Assume that both input arrays are already sorted in ascending order.
+
+           /*Example Input:
+                   Input Array 1: [1, 3, 5, 7, 9]
+                   Input Array 2: [2, 4, 6, 8, 10]
+
+           Example Output:
+                   Merged Sorted Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+           *//*
+
+
+           /*
+           * Merging Two Sorted Arrays:
+
+           Initialize three pointers:
+           Pointer i for the first array (array1).
+           Pointer j for the second array (array2).
+           Pointer k for the merged array (resultArray), initially set to 0.
+
+           * *//*
+
+
+           /** Compare the elements at array1[i] and array2[j].
+                   * To compare the elements at array1[i] and array2[j], you need to follow these steps:
+                       * Check if the value at array1[i] is less than the value at array2[j].
+                       * If array1[i] < array2[j], it means the element at array1[i] is smaller.
+                       * Check if the value at array2[j] is less than the value at array1[i].
+                       * If array2[j] < array1[i], it means the element at array2[j] is smaller.
+                       * If the values at array1[i] and array2[j] are equal, you can choose either element since they are the same.
+                               * You can choose array1[i] or array2[j] as the smaller element.
+           */
+
+
+
+           /** Take the smaller of the two elements and add it to resultArray[k].
+                    *
+                    * Increment the pointer k and the pointer for the array whose element was chosen.
+                    *
+                    * Repeat steps 2-4 until you reach the end of either array1 or array2.
+                    *
+                    * If there are remaining elements in array1 or array2, copy them to resultArray one by one.
+                    *
+                    * The merged array, resultArray, will contain all elements from both input arrays in sorted order.
+           */
+
+
+
+
+
+
+Problem 7: Write a Java program that counts and prints the number of even integers in an array of integers.
+
+Problem 8: Write a Java program to calculate and print the average value of elements in an array of integers.
+
+Problem 9: Write a Java program that finds and prints the index of a specific element in an array of integers.
+           If the element is not found, print a message indicating that it's not in the array.
+
+Problem 10: Write a Java program that finds and prints the intersection (common elements) of two arrays.
+           Assume both arrays contain unique elements.
+
+Problem 11: Write a Java program to find and print the largest and smallest elements in an array of integers.
