@@ -1,23 +1,23 @@
 Conditional Statements
 
 
-Problem 1: Even or Odd Number
+Done Problem 1: Even or Odd Number
            Write a Java program that takes an integer as input and prints whether it is an even or odd number.
 
-Problem 2: Grade Calculator
+Done Problem 2: Grade Calculator
            Create a program that calculates a student's grade based on their score. Use the following grading scale: A (90-100), B (80-89), C (70-79), D (60-69), F (0-59).
 
-Problem 3: Leap Year Checker
+Done Problem 3: Leap Year Checker
            Write a program that determines if a given year is a leap year or not. A leap year is divisible by 4 but not divisible by 100, except when it is also divisible by 400.
 
-Problem 4: Tax Calculator
-Create a program that calculates income tax based on a given income amount and tax brackets. For example, if the income is $50,000, the program should calculate the tax amount based on the tax rates for different income brackets.
+Done Problem 4: Tax Calculator
+           Create a program that calculates income tax based on a given income amount and tax brackets. For example, if the income is $50,000, the program should calculate the tax amount based on the tax rates for different income brackets.
 
-Problem 5: Find the Largest Number
-Write a program that takes three numbers as input and finds and prints the largest number among them.
+Done Problem 5: Find the Largest Number
+            Write a program that takes three numbers as input and finds and prints the largest number among them.
 
 Problem 6: Identify Triangle Type
-Create a program that takes three side lengths as input and determines if they can form a triangle. If they can, determine and print whether the triangle is equilateral, isosceles, or scalene.
+           Create a program that takes three side lengths as input and determines if they can form a triangle. If they can, determine and print whether the triangle is equilateral, isosceles, or scalene.
 
 Problem 7: Time of Day Greeting
 Write a program that takes the current time (in hours) as input and prints a greeting message based on the time of day (e.g., "Good morning," "Good afternoon," or "Good evening").
