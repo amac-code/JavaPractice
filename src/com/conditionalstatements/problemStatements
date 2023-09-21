@@ -1,0 +1,62 @@
+Conditional Statements
+
+
+Problem 1: Even or Odd Number
+           Write a Java program that takes an integer as input and prints whether it is an even or odd number.
+
+Problem 2: Grade Calculator
+           Create a program that calculates a student's grade based on their score. Use the following grading scale: A (90-100), B (80-89), C (70-79), D (60-69), F (0-59).
+
+Problem 3: Leap Year Checker
+           Write a program that determines if a given year is a leap year or not. A leap year is divisible by 4 but not divisible by 100, except when it is also divisible by 400.
+
+Problem 4: Tax Calculator
+Create a program that calculates income tax based on a given income amount and tax brackets. For example, if the income is $50,000, the program should calculate the tax amount based on the tax rates for different income brackets.
+
+Problem 5: Find the Largest Number
+Write a program that takes three numbers as input and finds and prints the largest number among them.
+
+Problem 6: Identify Triangle Type
+Create a program that takes three side lengths as input and determines if they can form a triangle. If they can, determine and print whether the triangle is equilateral, isosceles, or scalene.
+
+Problem 7: Time of Day Greeting
+Write a program that takes the current time (in hours) as input and prints a greeting message based on the time of day (e.g., "Good morning," "Good afternoon," or "Good evening").
+
+Problem 8: Character Classification
+Create a program that takes a character as input and classifies it as a vowel, consonant, digit, or special character.
+
+Problem 9: User Login
+Design a simple user login system. Ask the user for a username and password, and then check if they match predefined values. Print "Login successful" or "Login failed" accordingly.
+
+Problem 10: Temperature Converter
+Write a program that converts temperatures between Celsius and Fahrenheit. Allow the user to choose the conversion direction and input the temperature value.
+Problem 11: Palindrome Checker
+Write a program that checks if a given string is a palindrome. A palindrome is a word, phrase, or sequence that reads the same backward as forward.
+
+Problem 12: ATM Withdrawal
+Create a simple ATM program that asks the user for their account balance and the amount they want to withdraw. Check if the account balance is sufficient, and if so, deduct the withdrawal amount. Print the new balance or an error message if the balance is insufficient.
+
+Problem 13: Guess the Number
+Design a number-guessing game where the program generates a random number between 1 and 100, and the user tries to guess it. Provide hints like "Too high" or "Too low" until the user guesses the correct number.
+
+Problem 14: Rock, Paper, Scissors Game
+Write a program for a rock-paper-scissors game. The user chooses rock, paper, or scissors, and the computer also makes a random choice. Determine the winner based on the rules: rock beats scissors, scissors beats paper, and paper beats rock.
+
+Problem 15: Simple Calculator
+Create a basic calculator program that can perform addition, subtraction, multiplication, and division operations based on user input. Handle invalid input gracefully.
+
+Problem 16: Number to Word Converter
+Write a program that takes a numeric input (e.g., 123) and converts it to words (e.g., "one hundred twenty-three"). Handle numbers up to a certain limit, and print an error message for out-of-range values.
+
+Problem 17: Fibonacci Sequence
+Generate the Fibonacci sequence up to a specified number of terms. Print the sequence and the sum of the terms.
+
+Problem 18: Discount Calculator
+Design a program that calculates the total cost of items in a shopping cart. Apply discounts based on the total amount spent. For example, give a 10% discount for a total of $100 or more.
+
+Problem 19: Time Conversion
+Write a program that takes a time in 12-hour format (e.g., "2:30 PM") as input and converts it to 24-hour format (e.g., "14:30"). Handle AM and PM appropriately.
+
+Problem 20: Number Classification
+Create a program that takes an integer input and classifies it as positive, negative, or zero. Additionally, check if the number is even or odd.
+

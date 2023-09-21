@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 3: Write a Java program that calculates and prints the sum of all elements in an integer array.
 

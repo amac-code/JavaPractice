@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 
 //Problem 5: Write a Java program to reverse the elements of an integer array. For example,

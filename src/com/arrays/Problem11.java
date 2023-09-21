@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 11: Write a Java program to find and print the largest and smallest elements in an array of integers.
 

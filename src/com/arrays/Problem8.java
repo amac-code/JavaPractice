@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 8: Write a Java program to calculate and print the average value of elements in an array of integers.
 

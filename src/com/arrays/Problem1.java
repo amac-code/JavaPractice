@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 1: Write a Java program that iterates over an array and prints elements of the array.
 

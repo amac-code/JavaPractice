@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 2: Write a Java program that copies elements of an array into another array.
 

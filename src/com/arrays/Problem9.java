@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 9: Write a Java program that finds and prints the index of a specific element in an array of integers.
 //           If the element is not found, print a message indicating that it's not in the array.

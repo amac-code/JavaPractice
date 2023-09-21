@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 4: Write a Java program that finds and prints the maximum element in an array of integers.
 

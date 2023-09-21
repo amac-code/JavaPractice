@@ -1,4 +1,4 @@
-package arrays;
+package com.arrays;
 
 //Problem 7: Write a Java program that counts and prints the number of even integers in an array of integers.
 //Input:
