@@ -20,7 +20,7 @@ Problem 6: Identify Triangle Type
            Create a program that takes three side lengths as input and determines if they can form a triangle. If they can, determine and print whether the triangle is equilateral, isosceles, or scalene.
 
 Problem 7: Time of Day Greeting
-Write a program that takes the current time (in hours) as input and prints a greeting message based on the time of day (e.g., "Good morning," "Good afternoon," or "Good evening").
+           Write a program that takes the current time (in hours) as input and prints a greeting message based on the time of day (e.g., "Good morning," "Good afternoon," or "Good evening").
 
 Problem 8: Character Classification
 Create a program that takes a character as input and classifies it as a vowel, consonant, digit, or special character.

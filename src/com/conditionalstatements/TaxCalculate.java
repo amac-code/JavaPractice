@@ -29,7 +29,7 @@ public class TaxCalculate {
         if (amt>=0 && amt<=3_00_000){ //Income between Rs 0 to Rs 3 lakh- 0%
             tax = 0;
             System.out.println("Tax Exempted");
-        }else if (amt>3_00_000 && amt<=6_00_000){ //Income between Rs 3 lakh to 6 lakh- 5%
+        }else if (amt>300000 && amt<=6_00_000){ //Income between Rs 3 lakh to 6 lakh- 5%
             tax = 0.05 * amt;
             System.out.println("Tax payable is: " + tax);
         }else if (amt>6_00_000 && amt<=9_00_000){ //Income between Rs 6 lakh to 9 lakh- 10%
